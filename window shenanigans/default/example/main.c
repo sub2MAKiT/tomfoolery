@@ -5,7 +5,6 @@
 #include <time.h>
 #include <stdlib.h>
 //temp
-#define setup
 int main(int argc,char ** argv)
 {
     int FUN;
