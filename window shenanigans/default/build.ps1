@@ -1,0 +1,1 @@
+gcc ./example/main.c -l glfw3 -l gdi32 -l user32 -lopengl32 -I c:/sdk/include/ -I c:/sdk/ -L c:/sdk/lib/ -L c:/sdk/ -Ofast -o main.exe
